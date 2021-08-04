@@ -3,7 +3,9 @@ const math = require('./math.js');
 
 console.log(math);
 
-// funciones exportadas //
+// funciones exportadas//
+
+/////////        M modificado //////////////////////////
 
 
 
